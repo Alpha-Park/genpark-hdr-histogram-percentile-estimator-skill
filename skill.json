@@ -1,0 +1,17 @@
+{
+  "name": "genpark-hdr-histogram-percentile-estimator-skill",
+  "version": "1.0.0",
+  "description": "High Dynamic Range (HdrHistogram) latency percentile estimator tracking microsecond-to-hour request distributions with bounded precision error.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "hdr-histogram",
+    "percentiles",
+    "p99-latency",
+    "observability",
+    "metrics"
+  ],
+  "dependencies": []
+}
